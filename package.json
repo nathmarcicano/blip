@@ -1,0 +1,17 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Blip",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Nathalia B M Fernandes",
+  "license": "MIT",
+  "devDependencies": {
+    "-": "0.0.1",
+    "cypress": "^9.5.4",
+    "faker": "^5.5.3"
+  }
+}
